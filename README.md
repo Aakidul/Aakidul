@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakidul</h1>
-<h3 align="center">A passionate frontend and back-end developer from India 🇮🇳</h3>
+<h3 align="center">Hi🤠 I am programmer from india 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakidul&label=Profile%20views&color=0e75b6&style=flat" alt="aakidul" /> </p>
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/aakidul1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aakidul1" height="30" width="40" /></a>
+<a href="https://youtube.com/@Aakidul1?si=GtkliX8vaLhFGFp2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aakidul1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
